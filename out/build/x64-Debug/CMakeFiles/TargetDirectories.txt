@@ -1,0 +1,3 @@
+D:/ИГОРЬ/Нетология ccp9/домашнии задания/«CMake» 10.1/out/build/x64-Debug/CMakeFiles/to_run.dir
+D:/ИГОРЬ/Нетология ccp9/домашнии задания/«CMake» 10.1/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/ИГОРЬ/Нетология ccp9/домашнии задания/«CMake» 10.1/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
